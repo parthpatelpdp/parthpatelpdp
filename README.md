@@ -3,7 +3,6 @@
 - 🙏🏻 Welcome To My Profile
 - 😀 Simple & Sweet
 - 😎 Unique Personality
-- 🥳 Birthday 28 June
 - 📍 India
 - 👨🏻‍💼 Businessmen
 
