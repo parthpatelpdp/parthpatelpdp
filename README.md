@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @parthpatelpdp
-- 😃 Expect The Unexpected
-- 🙏🏻 Welcome To My Profile
-- 😀 Simple & Sweet
-- 😎 Unique Personality
-- 📍 India
+- **Parth Patel**
 - 👨🏻‍💼 Businessmen
+- 😃 Expect The Unexpected
+- 😊 Simple & Sweet
+- 😎 Unique Personality
+- 👨‍🎓 MBA
+- 🥳 Birthday 28 June
+- 📍 India
+- 🌐 ParthPatelPDP
 
 <!---
 parthpatelpdp/parthpatelpdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
