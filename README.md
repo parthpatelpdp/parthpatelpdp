@@ -12,7 +12,6 @@ parthpatelpdp/parthpatelpdp is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
 # 💫 About Me:
 👨🏻‍💼 Businessmen<br>😃 Expect The Unexpected<br>😊 Simple & Sweet<br>😎 Unique Personality<br>👨‍🎓 MBA<br>🥳 Birthday 28 June<br>📍 India<br>🌐 ParthPatelPDP
 
@@ -28,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthpatelpdp&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=parthpatelpdp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=parthpatelpdp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=parthpatelpdp)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
